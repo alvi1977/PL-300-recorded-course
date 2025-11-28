@@ -1,0 +1,11 @@
+SalesTerritoryKey,Region,Country,Continent,TerritoryManager,EmailAddress
+1,Northwest,United States,North America,Jenna Stubbs,jstubbs@mavencycles.onmicrosoft.com
+2,Northeast,United States,North America,Lauren Burns,lburns@mavencycles.onmicrosoft.com
+3,Central,United States,North America,Aden Holt,aholt@mavencycles.onmicrosoft.com
+4,Southwest,United States,North America,Susie Salt,ssalt@mavencycles.onmicrosoft.com
+5,Southeast,United States,North America,Jake Kay,jkay@mavencycles.onmicrosoft.com
+6,Canada,Canada,North America,Kathy Meza,kmeza@mavencycles.onmicrosoft.com
+7,France,France,Europe,Adam Juan,ajuan@mavencycles.onmicrosoft.com
+8,Germany,Germany,Europe,David Hahn,dhahn@mavencycles.onmicrosoft.com
+9,Australia,Australia,Pacific,Benny Blanco,bblanco@mavencycles.onmicrosoft.com
+10,United Kingdom,United Kingdom,Europe,Dirk Gently,dgently@mavencycles.onmicrosoft.com
